@@ -5,6 +5,14 @@
   <h1 align="center">Typedown</h1>
 </p>
 
+Here is my part. If you wanna look at the original part, look the beneth part.
+
+This is a WPF+WebView2 solution.
+
+Actually, this readme.md not includes all you may need to know. In the projects under this solution, you can see some other readme.md, may be very useful, for example, your app throw Quirks Mode, you need to run 'npm start' in the filefolder TypeInMD.Editor. 
+
+---
+
 [![Typedown Download](https://get.microsoft.com/images/en-us%20light.svg)](https://apps.microsoft.com/detail/9p8tcw4h2hb4)
 
 Typedown is a lightweight Markdown editor designed specifically for the Windows platform. With the WinUI framework, it provides users with a seamless interface and efficient editing experience that perfectly matches the operating system. Whether you're writing technical documents, academic papers, or blog posts, Typedown is your go-to assistant!

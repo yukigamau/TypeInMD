@@ -1,27 +1,26 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "typeInMD", "Dev\Typedown\typeInMD.csproj", "{59805442-1FD1-476C-A783-C2E3EB7D4478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeInMD", "Dev\TypeInMD\TypeInMD.csproj", "{59805442-1FD1-476C-A783-C2E3EB7D4478}"
 EndProject
-Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "Typedown.Package", "Tools\Typedown.Package\Typedown.Package.wapproj", "{01EEE687-39B7-4A6C-B094-D398BF49E8D9}"
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "TypeInMD.Package", "Tools\TypeInMD.Package\TypeInMD.Package.wapproj", "{01EEE687-39B7-4A6C-B094-D398BF49E8D9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{9FF1ED00-9B9C-40CF-A0A2-68E9F2640CB4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseMigration", "Tools\DatabaseMigration\DatabaseMigration.csproj", "{D890EBB0-B717-483A-AF99-3EE16B35B041}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Typedown.Editor", "Dev\Typedown.Editor\Typedown.Editor.esproj", "{DC6E07F0-C13B-4600-9857-4214E6036583}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TypeInMD.Editor", "Dev\TypeInMD.Editor\TypeInMD.Editor.esproj", "{DC6E07F0-C13B-4600-9857-4214E6036583}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Typedown.Test", "Tests\Typedown.Test\Typedown.Test.csproj", "{B3BD8EAB-180B-42BC-B997-640725E71974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeInMD.Test", "Tests\TypeInMD.Test\TypeInMD.Test.csproj", "{B3BD8EAB-180B-42BC-B997-640725E71974}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Typedown.Core.Test", "Tests\Typedown.Universal.Test\Typedown.Core.Test.csproj", "{D2283D07-82FF-4EF6-B332-E5C4889D2567}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeInMD.Core.Test", "Tests\TypeInMD.Universal.Test\TypeInMD.Core.Test.csproj", "{D2283D07-82FF-4EF6-B332-E5C4889D2567}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9FF4D6E1-2E2D-4F03-90AE-B5AE028C7F54}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Typedown.UITest", "Tests\Typedown.UITest\Typedown.UITest.csproj", "{9A59F339-E01E-4ED2-863E-110EC7DED0E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeInMD.UITest", "Tests\TypeInMD.UITest\TypeInMD.UITest.csproj", "{9A59F339-E01E-4ED2-863E-110EC7DED0E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typedown.Core", "Dev\Typedown.Core\Typedown.Core.csproj", "{3538AD79-BD49-4081-B10B-090E4F75F6FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeInMD.Core", "Dev\TypeInMD.Core\TypeInMD.Core.csproj", "{3538AD79-BD49-4081-B10B-090E4F75F6FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlDesignApp", "Tools\XamlDesignApp\XamlDesignApp.csproj", "{7E4518ED-AE38-4099-963B-3D8BE111ED58}"
 EndProject
